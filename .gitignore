@@ -1,3 +1,18 @@
 
 *.exe
 dist/PyNote.exe
+build/PyNotes/Analysis-00.toc
+build/PyNotes/base_library.zip
+build/PyNotes/EXE-00.toc
+build/PyNotes/PKG-00.pkg
+build/PyNotes/PKG-00.toc
+build/PyNotes/PyNotes.exe.manifest
+build/PyNotes/PYZ-00.pyz
+build/PyNotes/PYZ-00.toc
+build/PyNotes/Tree-00.toc
+build/PyNotes/Tree-01.toc
+build/PyNotes/Tree-02.toc
+build/PyNotes/warn-PyNotes.txt
+build/PyNotes/xref-PyNotes.html
+dist/PyNotes.exe
+PyNotes.spec
