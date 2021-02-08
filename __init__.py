@@ -87,7 +87,9 @@ class Notepad:
         # exit()
 
     def __showAbout(self):
-        showinfo("Notepad", "Created by: Ferdinand Silva (http://ferdinandsilva.com)")
+        showinfo("Notepad", "Created by: Ferdinand Silva (http://ferdinandsilva.com) "
+                            "Packaged and signed by Douglas "
+                            "Scott (www.pachsoftware.com)")
 
     def __openFile(self):
 
