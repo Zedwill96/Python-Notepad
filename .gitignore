@@ -16,3 +16,4 @@ build/PyNotes/warn-PyNotes.txt
 build/PyNotes/xref-PyNotes.html
 dist/PyNotes.exe
 PyNotes.spec
+dist/PyNotes.exe
